@@ -1,5 +1,0 @@
-# ejercio 1
-#Ejercicio 1. Es el protocolo seguro? (condicionales)
-#Dado el nombre de un protocolo guardado en una variable protocolo, indique si es seguro o
-#inseguro. Seguros: HTTPS, SSH, SFTP. Inseguros: HTTP, Telnet, FTP. Si el protocolo no esta en
-#ninguna de las listas, imprimir "Desconocido".#
